@@ -10,8 +10,7 @@ export class ItemService {
     { id: 0, name: 'A. Ibourk', role: 'Goalkeeper' },
     { id: 1, name: 'Ter Stegen', role: 'Goalkeeper' },
     { id: 3, name: 'Piqué', role: 'Defender' },
-    { id: 4, name: 'I. Rakitic', role: 'Midfielder' },
-    { id: 5, name: 'Sergio', role: 'Midfielder' }
+    { id: 4, name: 'I. Rakitic', role: 'Midfielder' }
   );
 
   getItems(): Array<Item> {
